@@ -1,0 +1,32 @@
+{
+	"name": "Feedback filler",
+	"description": "Auto fill feeback for IIT KGP",
+	"version": "1.0",
+	"author": {
+		"name": "sleepingsaint",
+		"github": "https://github.com/sleepingsaint/auto-fill-feedback-iitkgp"
+	}, 
+	"manifest_version": 3,
+	"permissions": ["activeTab", "scripting"],
+	"action": {
+		"default_popup": "popup.html",
+		"default_icon": {
+			"512": "assets/feedback_512.png",
+			"256": "assets/feedback_256.png",
+			"128": "assets/feedback_128.png",
+			"64": "assets/feedback_64.png",
+			"32": "assets/feedback_32.png",
+			"24": "assets/feedback_24.png",
+			"16": "assets/feedback_16.png"
+		}
+	},
+	"icons": {
+		"512": "assets/feedback_512.png",
+		"256": "assets/feedback_256.png",
+		"128": "assets/feedback_128.png",
+		"64": "assets/feedback_64.png",
+		"32": "assets/feedback_32.png",
+		"24": "assets/feedback_24.png",
+		"16": "assets/feedback_16.png"
+	}
+}
