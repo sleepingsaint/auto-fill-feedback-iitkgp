@@ -12,3 +12,21 @@ Open the feedback page and click on the fill feedback button. There is also anot
 
 Author: sleepingsaint @github
 Repo Link: https://github.com:sleepingsaint/auto-fill-feedback-iitkgp.git
+
+## Installation 
+
+Following the below steps to install the extension
+
+1. Clone the repo or download the zip file and extract it
+2. Go to chrome://extensions/
+3. At the top right, turn on Developer mode.
+4. Click Load unpacked.
+5. Find and select the extension folder.
+
+## TODOS
+
+- [x] Fill random sentences
+- [ ] Fill all the pages automatically
+- [ ] Support for custom filler data
+- [ ] Make a firefox extension
+- [ ] Host on chrome web store
